@@ -1,0 +1,73 @@
+{
+  "ascii": [
+    "██████╗ ██████╗  █████╗ ███╗   ██╗ █████╗ ██╗   ██╗",
+    "██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██║   ██║",
+    "██████╔╝██████╔╝███████║██╔██╗ ██║███████║██║   ██║",
+    "██╔═══╝ ██╔══██╗██╔══██║██║╚██╗██║██╔══██║╚██╗ ██╔╝",
+    "██║     ██║  ██║██║  ██║██║ ╚████║██║  ██║ ╚████╔╝",
+    "╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝"
+  ],
+  "title": "WebShell",
+  "username": "guest",
+  "hostname": "pranavarya.in",
+  "password": "617437",
+  "repoLink": "https://github.com/PranavArya37/webshell",
+  "social": {
+    "email": "pranavarya2799@email.com",
+    "github": "PranavArya37",
+    "linkedin": "PranavArya37",
+    "twitter": "PranavArya37",
+    "website": "https://pranavarya.in"
+  },
+  "aboutGreeting": "Hi stranger. I'm Pranav Arya. I'm a software developer.",
+  "projects": [
+    [
+      "Business-Directory-App",
+      "A business directory app built using React Native and Firebase.",
+      "https://github.com/PranavArya37/Business-Directory-App"
+    ],
+    [
+      "Personal-Task-Manager-App",
+      "A personal task manager app built using React Native.",
+      "https://github.com/PranavArya37/PersonalTaskManager-App"
+    ],
+    [
+      "NewsyDoozy",
+      "A news web app built using React and GNews API.",
+      "https://newsydoozy.vercel.app"
+    ],
+    [
+      "ElectroNote",
+      "A note-taking web app built using React and MongoDB.",
+      "https://electronote.vercel.app"
+    ],
+    [
+      "All",
+      "View all of the projects I'm working on.",
+      "https://github.com/PranavArya37"
+    ]
+  ],
+  "colors": {
+    "background": "#0C0623",
+    "foreground": "#F8DDE5",
+    "banner": "#FF9951",
+    "border": {
+      "visible": true,
+      "color": "#FFADE2"
+    },
+    "prompt": {
+      "default": "#A5A7A7",
+      "user": "#FE6BC9",
+      "host": "#70FDFF",
+      "input": "#FF7685"
+    },
+    "link": {
+      "text": "#B6AAEE",
+      "highlightColor": "#FFADE2",
+      "highlightText": "#0C0623"
+    },
+    "commands": {
+      "textColor": "#FD9BDB"
+    }
+  }
+}
